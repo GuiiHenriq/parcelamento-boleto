@@ -1,4 +1,5 @@
-# boletos
+# Parcelamento de Boleto
+**Projeto desenvolvido fins de estudos do VueJS**
 
 ## Project setup
 ```
